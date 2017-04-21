@@ -1,3 +1,2 @@
 <?php
-echo phpinfo();
-mysqli_connect();
+echo 'hello world!';
